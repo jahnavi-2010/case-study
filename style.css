@@ -1,0 +1,15 @@
+body {
+    background-color: crimson;
+    color: cyan;
+}
+img{
+    width:550px;
+    height:500px;
+    border-radius: 15px;
+    box-shadow: darkkhaki 5px 5px 18px;
+}
+.copy_right_footer
+{
+    color: gold;
+    font-size: 20px;
+}
